@@ -36,8 +36,9 @@ this project is a procedurally generated maze game You must navigate through a m
 #### 2. Git clone This Repo
 
 ```sh
-https://github.com/for-tristan/Maze-Solver
+https://github.com/for-tristan/Maze-hunter
 ```
+
 #### 3. Run the Game
 You can start the menu by running:
 
