@@ -5,9 +5,6 @@ this project is a procedurally generated maze game You must navigate through a m
 
 
 
-> [!NOTE]
-> this project has multiple versions make sure to download the latest release.
-
 
 ## Features
 
@@ -28,6 +25,10 @@ this project is a procedurally generated maze game You must navigate through a m
 | `Move Left` |  A / ←|
 | `Move Right` | D / → |
 | `Exit Game` | ESC |
+
+
+> [!NOTE]
+> this project has multiple versions make sure to download the latest release.
 
 
 ## Installation
